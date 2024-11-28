@@ -1,4 +1,9 @@
-![Logo](./logo.png)
+<p align="center">
+    <a href="https://github.com/AashooSharma/DSA-Lab">
+        <img src="./logo.png" alt="Your Logo">
+    </a>
+</p>
+
 ---
 <p align="center">
     <img src="https://img.shields.io/github/stars/AashooSharma/DSA-Lab?style=for-the-badge" alt="Stars">
