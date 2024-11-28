@@ -63,54 +63,54 @@ Here’s how the repository is organized:
 
 ```
 /DSA-Lab
-    /README.md  # Root information like table of contents
-    /Arrays/
-        /Question1/
-            README.md
-            Answer1.cpp
-            Answer2.cpp
-        /Question2/
-            README.md
-            Answer1.cpp
-        /Question3/
-            README.md
-            Answer1.cpp
-        /Question4/
-            README.md
-            Answer1.cpp
-    /LinkedLists/
-        /SinglyLinkedList/
-            /Question1/
-                README.md
-        /DoublyLinkedList/
-            /Question1/
-                README.md
-    /Stacks/
-        /StackUsingArray/
-            README.md
-        /StackUsingLinkedList/
-            README.md
-    /Queues/
-        /CircularQueue/
-            README.md
-        /PriorityQueue/
-            README.md
-    /Sorting/
-        /BubbleSort/
-            README.md
-        /MergeSort/
-            README.md
-    /Trees/
-        /BinaryTree/
-            README.md
-        /BinarySearchTree/
-            README.md
-    /Graphs/
-        /BFS/
-            README.md
-        /DFS/
-            README.md
-    /Contribution_Helper.md  # Guide for contributing to the repo
+    ├── README.md  # Root information like table of contents
+    ├── Arrays/
+    │   ├── Question1/
+    │   │   ├── README.md
+    │   │   ├── Answer1.cpp
+    │   │   └── Answer2.cpp
+    │   ├── Question2/
+    │   │   ├── README.md
+    │   │   └── Answer1.cpp
+    │   ├── Question3/
+    │   │   ├── README.md
+    │   │   └── Answer1.cpp
+    │   └── Question4/
+    │       ├── README.md
+    │       └── Answer1.cpp
+    ├── LinkedLists/
+    │   ├── SinglyLinkedList/
+    │   │   └── Question1/
+    │   │       └── README.md
+    │   └── DoublyLinkedList/
+    │       └── Question1/
+    │           └── README.md
+    ├── Stacks/
+    │   ├── StackUsingArray/
+    │   │   └── README.md
+    │   └── StackUsingLinkedList/
+    │       └── README.md
+    ├── Queues/
+    │   ├── CircularQueue/
+    │   │   └── README.md
+    │   └── PriorityQueue/
+    │       └── README.md
+    ├── Sorting/
+    │   ├── BubbleSort/
+    │   │   └── README.md
+    │   └── MergeSort/
+    │       └── README.md
+    ├── Trees/
+    │   ├── BinaryTree/
+    │   │   └── README.md
+    │   └── BinarySearchTree/
+    │       └── README.md
+    ├── Graphs/
+    │   ├── BFS/
+    │   │   └── README.md
+    │   └── DFS/
+    │       └── README.md
+    └── Contribution_Helper.md  # Guide for contributing to the repo
 ```
 
 ### Breakdown of the Structure:
