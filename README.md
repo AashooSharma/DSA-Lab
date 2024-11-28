@@ -1,3 +1,16 @@
+---
+<p align="center">
+    <img src="https://img.shields.io/github/stars/AashooSharma/DSA-Lab?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/AashooSharma/DSA-Lab?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/AashooSharma/DSA-Lab?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/AashooSharma/DSA-Lab?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/AashooSharma/DSA-Lab?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/AashooSharma/DSA-Lab/commits/master"> <img src="https://img.shields.io/github/last-commit/AashooSharma/DSA-Lab?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/AashooSharma/DSA-Lab?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/AashooSharma/DSA-Lab/issues"> <img src="https://img.shields.io/github/issues/AashooSharma/DSA-Lab?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/AashooSharma/DSA-Lab"> <img src="https://img.shields.io/github/repo-size/AashooSharma/DSA-Lab?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
+
 
 ---
 
